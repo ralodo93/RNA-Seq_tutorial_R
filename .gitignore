@@ -49,3 +49,4 @@ po/*~
 rsconnect/
 
 raw_fastq_files/
+rds_data/
